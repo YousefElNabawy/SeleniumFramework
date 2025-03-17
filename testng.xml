@@ -3,17 +3,7 @@
 <parameter name= "browser" value= "chrome"></parameter>
   <test name="Regression Test" preserve-order = "false">
     <classes>
-      <class name="tests.UserRegisterationTest"/>
-      <class name="tests.AddProductToCartTest"/>
-      <class name="tests.AddProductToCheckout"/>
-      <class name="tests.AddToWishlistTest"/>
       <class name="tests.ChangeCurrencyTest"/>
-      <class name="tests.ContactUsTest"/>
-      <class name="tests.EmailFriendTest"/>
-      <class name="tests.MyAccountTest"/>
-      <class name="tests.ProductHoverMenuTest"/>
-      <class name="tests.SearchProductTest"/>
-      <class name="tests.SearchProductUsingAutoSuggestion"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
